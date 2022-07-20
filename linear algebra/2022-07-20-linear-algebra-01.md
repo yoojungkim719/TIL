@@ -15,11 +15,11 @@
 
   2. 2행 - 1행X2  
     
-        $\begin{pmatrix}1&2&5\\0&1&2\ \end{pmatrix}$
+        $\begin{pmatrix} 1&2&5 \\ 0&1&2 \end{pmatrix}$
 
   3. 1행 - 2행X2  
     
-        $\begin{pmatrix}1&0&1\\0&1&2\ \end{pmatrix} \qquad\to\qquad  x=1, y=2$  
+        $\begin{pmatrix} 1&0&1 \\ 0&1&2 \end{pmatrix} \qquad\to\qquad  x=1, y=2$  
 
 
 ## 행렬식
@@ -62,5 +62,6 @@ $x_{j}=\frac{detA_{j}}{detA}\qquad$ 단, $j=1, 2, ..., n$이고, $A_{j}$는 $A$�
     =1$
 
 ---
-**[Reference]**  
-[이상엽Math](https://www.youtube.com/c/%EC%9D%B4%EC%83%81%EC%97%BDMath)
+**[비고]**  
+- 출처: [이상엽Math](https://www.youtube.com/c/%EC%9D%B4%EC%83%81%EC%97%BDMath)
+- 본 자료는 마크다운 문법을 활용하여 작성함
