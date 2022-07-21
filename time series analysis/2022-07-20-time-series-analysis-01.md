@@ -22,7 +22,7 @@ plot(wn, type='l', main="White noise")
 abline(h=c(-0.2, 0, 0.2), col=c('black', 'red', 'black'), lwd=2)
 ```
 
-![whitenoise](assets/images/TILphotos/whitenoise.png){: width="70%" height="70%"}
+![whitenoise](/images-for-TIL/whitenoise.png){: width="60%" height="60%"}{: .align-center}
 
 
 ## 2. 정상성(Stationarity)
