@@ -10,3 +10,6 @@
 
 ## Time series analyses
 - [백색잡음, 정상성](https://github.com/yoojungkim719/TIL/blob/c4b8c9eb14713fc5a82b6fbf1809e3135ace6fc9/time%20series%20analysis/2022-07-20-time-series-analysis-01.md)
+
+## ML, DL
+- [오토인코더]()
